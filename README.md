@@ -13,9 +13,9 @@
 
 # 参考サイト
 
-https://reactnative.dev/
-https://expo.dev/
-https://www.nativewind.dev/
+https://reactnative.dev/  
+https://expo.dev/  
+https://www.nativewind.dev/  
 
 ## 初期設定
 
